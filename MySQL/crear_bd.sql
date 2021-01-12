@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS academia;
+DROP DATABASE academia;
+CREATE DATABASE academia;
